@@ -1,0 +1,41 @@
+Tavoitteet:
+-Emoji-paketti Discord-käyttöön
+-Luoda ns. master-kuvien paketti: kuvakkeissa on tarvittavat värit, oikeat läpinäkyvyydet ja ne ovat maksimikoossa
+-Paketti kattaa kolme pääteemaa (Denominaatiot, Tunnetut henkilöt ja Hengellisen elämän).
+
+Määritelmät:
+-Tarjotut koot: 128x128 pikseliä
+-Taustavärit: valkoinen, musta, läpinäkyvä
+-Kuvien formaattina PNG ja JPG
+-Ei animoituja
+
+Custom-emojeihin liityvät rajoitukset Discordissa:
+-50 emojia / serveri (tämänhetkinen maksimi, oletettavasti tätä voi kiertää mm. Better Twitch TV (BTTV) Twitch-linkityksillä)
+-hyväksytty maksimikoko: 128x128 pikseliä, mutta näytöllä 32x32 pikseliä. (toistaiseksi jättikokoisia custom-ikoneita ei ole käytössä)
+-muualle lisensoitua materiaalia ei tule käyttää, ellei käyttöoikeus ole riittävän laaja (ilmainen ja ei-kaupallinen).
+
+
+Valitut teemat ja esimerkkejä niihin:
+
+Denominaatiot (6):
+	-Suomen evankelis-luterilainen kirkko
+  -Metodistit
+  -Suomen Vapaakirkko
+  -Suomen Ortodoksinen kirkko
+  -Suomen Katolinen kirkko
+  -Helluntaikirkko.
+Eri ristejä (2):
+	-tavallinen
+  -ortodoksi.
+
+Tunnetut henkilöt (4):
+	-Niilo Ylivainio
+  -Reinhard Bonkke
+  -Benny Hinn
+  -Paavi Fransiscus I.
+
+Hengellinen elämä (4):
+	-"raamattu"
+	-"sormet ristissä"
+	-"polvistua rukoukseen"
+	-"rippituoli".
